@@ -2,10 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+models/tmp*
+models/.locks*
+models/models--facebook--fasttext-language-identification
 # C extensions
 *.so
-
+.DS_Store
 # Distribution / packaging
 .Python
 build/
